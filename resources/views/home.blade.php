@@ -219,7 +219,7 @@ body {
 }
 
 #large-header {
-	background-image: url('/Images/bc.jpg');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Images/bc.jpg');
 }
 
 .main-title {
@@ -250,5 +250,3 @@ body {
 	}
 }
 </style>
-
-
